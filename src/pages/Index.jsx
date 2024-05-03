@@ -39,7 +39,7 @@ const Index = () => {
           <IconButton
             icon={<FaPlus />}
             onClick={handleAddTask}
-            colorScheme="blue"
+            colorScheme="green"
             ml={2}
           />
         </Flex>
